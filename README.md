@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="28px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <h1>Hello World, je suis Edouard GUERY <span style="color:#10b981;">.</span></h1>
   
   <p align="center">
